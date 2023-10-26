@@ -1,0 +1,12 @@
+# ignore .env files
+*.env
+
+# ignore python virtualenv
+/venv
+/env
+
+# ignore node_modules
+/ui/node_modules
+
+# ignore local db
+*.db
